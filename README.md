@@ -7,6 +7,7 @@
 * Почта: [sasha-saakyn@yandex.ru](mailto:sasha-saakyn@yandex.ru)
 * Telegram: [@Alonso_6](https://t.me/Alonso_6)
 
+Технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
 ## Содержание
 
 | Название проекта                                     | Описание                                               | Стек технологий                    |
